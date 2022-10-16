@@ -9,12 +9,12 @@
 
 # The Result
 
-> https://shidqiadiatma.github.io/api-automation-testing-using-mocha-chai-javascript/Login/api-login-report.html
+> api-login report: https://shidqiadiatma.github.io/api-automation-testing-using-mocha-chai-javascript/Login/api-login-report.html
 
-> https://shidqiadiatma.github.io/api-automation-testing-using-mocha-chai-javascript/Register/api-register-report.html
+> api-register report https://shidqiadiatma.github.io/api-automation-testing-using-mocha-chai-javascript/Register/api-register-report.html
 
-> https://shidqiadiatma.github.io/api-automation-testing-using-mocha-chai-javascript/Update-Name/api-updateName-report.html
+> api-updateName report https://shidqiadiatma.github.io/api-automation-testing-using-mocha-chai-javascript/Update-Name/api-updateName-report.html
 
-> https://shidqiadiatma.github.io/api-automation-testing-using-mocha-chai-javascript/Delete-User/api-deleteUser-report.html
+> api-deleteUser report https://shidqiadiatma.github.io/api-automation-testing-using-mocha-chai-javascript/Delete-User/api-deleteUser-report.html
 
 
